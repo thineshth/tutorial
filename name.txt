@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Thinesh
 Sky Blue
+=======
+Thinesh
+Blood Red
+>>>>>>> color
